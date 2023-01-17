@@ -1,0 +1,30 @@
+algorithm:algoritma
+application:uygulama
+binary:ikili
+bug:hata
+database:veritabanı
+debug:hata ayıklama
+encrypt:şifreleme
+firmware:yazılım
+hardware:donanım
+internet:internet
+keyboard:klavye
+malware:kötücül yazılım
+memory:bellek
+network:ağ
+cyber:siber
+password:parola
+processor:işlemci
+security:güvenlik
+software:yazılım
+spam:spam
+storage:depolama
+system:sistem
+virus:virüs
+web:web
+mouse:fare
+wifi:wifi
+windows:windows
+word:word
+wordpress:wordpress
+ai:artificialIntelligenge
